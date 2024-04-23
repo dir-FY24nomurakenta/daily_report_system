@@ -18,11 +18,12 @@ body {
 }
 
 h1 {
-    width: 94%;
     padding-top: 0px;
     padding-left: 3%;
     font-size: 24px;
     color: white;
+    display: inline-block;
+    
 }
 
 h2 {
@@ -116,7 +117,7 @@ select {
 
 #header_menu {
     width: 57%;
-    padding-top: 10px;
+    padding-top: 17px;
     padding-left: 3%;
     display: inline-block;
 }
@@ -135,5 +136,6 @@ select {
 
 h1 a {
     color: #eeeeee;
+    display: inline-block;
 }
 
